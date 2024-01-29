@@ -28,4 +28,4 @@ Para instalar el proyecto necesitas un servidor local como XAMPP con PHP y MySQL
 
 Aquí una imagen de como se ve el sistema:
 
-![Imagen](https://github.com/Carrillo-Jesus/Sistemas-Usuarios/tree/main/images/inicio.png)
+![Imagen](./images/inicio.png)
